@@ -1,6 +1,12 @@
-# Hola, soy Madeleine 👋
-## Bienvenid@ a mi repositorio en Github
+# Hola, soy Made 🌟👋
+## Bienvenid@ a mi repositorio en Github 🌈
 
+#### Soy programadora web ✨👩‍💻, apasionada por aprender cada día más, en este maravilloso mundo de la programación. 
+_💡 Algunas tecnologías con las que disfruto trabajar incluyen én el Frontend Javascript, HTML, CSS, Bootstrap, y Vue.js. 
+En el backend mi lenguaje favorito: Python de la mano de Django Framework; y mi gran amigo de la universidad: Java de la mano de Spring Boot. 
+En bases de datos MySQL, Oracle BD y PostgreSQL._
+
+Si quieres contactarme 🎈 solo envíame un e-mail a damaris.dmauro@gmail.com o búscame en LinkedIn como [Madeleine Di Mauro](https://www.linkedin.com/in/made-di-mauro/)
 
 <!--
 **MadeDiMauro/MadeDiMauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
