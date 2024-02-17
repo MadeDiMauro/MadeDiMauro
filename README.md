@@ -3,7 +3,7 @@
 
 #### Soy programadora web ✨👩‍💻, apasionada por aprender cada día más, en este maravilloso mundo de la programación. 
 _💡 Algunas tecnologías con las que disfruto trabajar incluyen én el Frontend Javascript, HTML, CSS, Bootstrap, y Vue.js. 
-En el backend, mi lenguaje favorito es Python de la mano de Django Framework; y mi segundo lenguqje aprendido en la universidad fué Java, actualmente incorporandolo con Spring Boot. En bases de datos MySQL, Oracle BD y PostgreSQL._
+En el backend, mi lenguaje favorito es JavaScript de la mano de NodeJS; a su vez, también tengo experiencia y conocimientos de Java. En bases de datos MySQL, Oracle BD y PostgreSQL._
 
 Si quieres contactarme 🎈 solo envíame un e-mail a damaris.dmauro@gmail.com o búscame en LinkedIn como [Madeleine Di Mauro](https://www.linkedin.com/in/made-di-mauro/)
 
