@@ -1,23 +1,33 @@
-# Hola, soy Made 🌟👋
-## Bienvenid@ a mi repositorio en Github 🌈
+# ¡Hola, soy Made! 🌟👋
 
-#### Soy programadora web ✨👩‍💻, apasionada por aprender cada día más, en este maravilloso mundo de la programación. 
-_💡 Algunas tecnologías con las que disfruto trabajar incluyen én el Frontend Javascript, HTML, CSS, Bootstrap, y Vue.js. 
-En el backend, mi lenguaje favorito es JavaScript de la mano de NodeJS; a su vez, también tengo experiencia y conocimientos de Java. En bases de datos MySQL, Oracle BD y PostgreSQL._
+## Bienvenid@ a mi repositorio en GitHub 🌈
 
-Si quieres contactarme 🎈 solo envíame un e-mail a damaris.dmauro@gmail.com o búscame en LinkedIn como [Madeleine Di Mauro](https://www.linkedin.com/in/made-di-mauro/)
+Soy **programadora web** apasionada por el aprendizaje continuo en el fascinante mundo de la programación. ✨👩‍💻
 
-<!--
-**MadeDiMauro/MadeDiMauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Mis Habilidades
 
-Here are some ideas to get you started:
+#### **Frontend:**
+- **React:** Desarrollo de interfaces modernas y responsivas.
+- **Tailwind CSS:** Estilizado eficiente y elegante para mis aplicaciones.
+- **JavaScript:** Creación de interactividad y dinamismo en la web.
+- **HTML & CSS:** Fundamentos sólidos para el diseño web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Backend:**
+- **Node.js:** Construcción de aplicaciones robustas y escalables.
+- **Java:** Experiencia en desarrollo de aplicaciones y servicios.
+
+#### **Bases de Datos:**
+- **MySQL, Oracle BD, PostgreSQL:** Gestión y optimización de bases de datos.
+
+### 🌟 ¿Qué Me Apasiona?
+
+Me encanta trabajar en proyectos que impactan positivamente a los usuarios. Recientemente, desarrollé **Power Training 1.0**, una plataforma de fitness que integra rutinas personalizadas, seguimiento del progreso y recomendaciones nutricionales, todo en un entorno interactivo. 
+
+### 📬 Conectemos
+
+Si quieres hablar sobre tecnología, proyectos o simplemente compartir ideas, no dudes en contactarme:
+
+- **Correo electrónico:** [damaris.dmauro@gmail.com](mailto:damaris.dmauro@gmail.com)
+- **LinkedIn:** [Madeleine Di Mauro](https://www.linkedin.com/in/made-di-mauro/)
+
+¡Gracias por visitar mi perfil! 🎈
