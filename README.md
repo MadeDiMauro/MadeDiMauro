@@ -2,7 +2,7 @@
 
 ## Bienvenid@ a mi repositorio en GitHub 🌈
 
-Soy **programadora web** apasionada por el aprendizaje continuo en el fascinante mundo de la programación. ✨👩‍💻
+Soy **desarrolladora Full Stack**, con especialidad en el **desarrollo Front End**. Apasionada por el aprendizaje continuo en el fascinante mundo de la programación. ✨👩‍💻
 
 ### 🚀 Mis Habilidades
 
