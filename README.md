@@ -23,7 +23,7 @@ Soy **desarrolladora Full Stack**, con especialidad en el **desarrollo Front End
 
 ### 🌟 ¿Qué Me Apasiona?
 
-Me encanta trabajar en proyectos que impactan positivamente a los usuarios. Recientemente, desarrollé **Power Training 1.0**, una plataforma de fitness que integra rutinas personalizadas, seguimiento del progreso y recomendaciones nutricionales, todo en un entorno interactivo. 
+Me encanta trabajar en proyectos que impactan positivamente a los usuarios. Recientemente, desarrollé **Power Training 1.0**, una plataforma de fitness que integra rutinas personalizadas, seguimiento del progreso y seguimiento de los usuarios, todo en un entorno interactivo. 
 
 ### 📬 Conectemos
 
