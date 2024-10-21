@@ -7,10 +7,12 @@ Soy **programadora web** apasionada por el aprendizaje continuo en el fascinante
 ### 🚀 Mis Habilidades
 
 #### **Frontend:**
-- **React:** Desarrollo de interfaces modernas y responsivas.
-- **Tailwind CSS:** Estilizado eficiente y elegante para mis aplicaciones.
-- **JavaScript:** Creación de interactividad y dinamismo en la web.
-- **HTML & CSS:** Fundamentos sólidos para el diseño web.
+- **React:** Desarrollo de interfaces modernas y responsivas para brindar una excelente experiencia de usuario.
+- **Next.js:** Implementación de aplicaciones web interactivas y dinámicas con SSR (Server-Side Rendering) para un rendimiento óptimo.
+- **Tailwind CSS:** Creación de diseños elegantes y personalizados con un enfoque en la eficiencia.
+- **JavaScript:** Potencio la interactividad en la web, creando experiencias atractivas y dinámicas.
+- **TypeScript:** Mejora la mantenibilidad de mis proyectos al proporcionar tipado estático y facilitar el desarrollo.
+- **HTML & CSS:** Sólidos conocimientos en diseño y estructura web, asegurando una base sólida para cualquier proyecto.
 
 #### **Backend:**
 - **Node.js:** Construcción de aplicaciones robustas y escalables.
